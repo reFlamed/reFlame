@@ -1,10 +1,10 @@
-# Flame
+# reFlame
 
 ![Homescreen screenshot](.github/home.png)
 
 ## Description
 
-Flame is self-hosted startpage for your server. Its design is inspired (heavily) by [SUI](https://github.com/jeroenpardon/sui). Flame is very easy to setup and use. With built-in editors, it allows you to setup your very own application hub in no time - no file editing necessary.
+reFlame is self-hosted homelab dashboard which is a fork of Flame. reFlame is best described as a complete re-build of the original providing support for new systems, more customization and, more ways to deploy.
 
 ## Functionality
 - 📝 Create, update, delete your applications and bookmarks directly from the app using built-in GUI editors
